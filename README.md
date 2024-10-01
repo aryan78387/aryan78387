@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aryan jain
-- 👀 I’m interested in (still figuring out)
-- 🌱 I’m currently learning Javascript and Java
-- 💞️ I’m looking to collaborate on anything that doesn't involve much brain
-- 📫 How to reach me : Just send a message, I will respond
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Java and DSA
+- 💞️ I’m looking to collaborate on Java related projects
+- 📫 How to reach me :
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You can search fun facts on google
